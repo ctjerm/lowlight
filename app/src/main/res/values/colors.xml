@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lowlight_background">#090A0C</color>
+    <color name="lowlight_accent">#FFD18A</color>
+    <color name="lowlight_icon_ink">#3C2800</color>
+</resources>

@@ -1,0 +1,7 @@
+* Quick Settings tile to turn dimming on and off
+* Shade strength now matches the level you choose
+* Stopping the shade during a scheduled session keeps it off until the next session, even if you edit the schedule
+* Opening Lowlight no longer cancels a delayed scheduled start
+* Scheduled starts fall back to a reminder without Alarms & reminders access
+* Fixed a crash when dimming was turned off right after turning it on
+* Mon-Fri schedules are now labelled Weekdays

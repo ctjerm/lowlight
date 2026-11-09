@@ -1,0 +1,21 @@
+Lowlight adds a simple screen shade for reading, watching, and winding down when Android's lowest brightness still feels too bright.
+
+Set the dim level, switch it on, and keep using your phone. The shade does not intercept touches or keyboard input. A persistent notification shows that the shade is active and gives you a quick way to stop it.
+
+<b>Features</b>
+<ul>
+<li>Shade strength from 5% to 75%, adjustable while dimming</li>
+<li>Quick Settings tile to turn dimming on and off from the notification panel</li>
+<li>Optional weekly schedule that starts and stops the shade at your chosen times</li>
+</ul>
+
+<b>Permissions</b>
+<ul>
+<li>Display over other apps: draws the shade. Lowlight cannot read or control what is underneath.</li>
+<li>Notifications: shows the active-shade notification with its stop button, and schedule reminders.</li>
+<li>Alarms &amp; reminders (optional): starts a scheduled shade at the exact time. Without it, Lowlight sends a one-tap reminder instead.</li>
+</ul>
+
+Lowlight contains no ads, analytics, accounts, or internet access. Your settings and schedule stay on your device.
+
+Android keeps critical system panels and the keyboard above app overlays, so those areas may stay brighter.
